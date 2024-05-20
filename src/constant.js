@@ -1,0 +1,1 @@
+export const STUDENT_LIST_BASE_URL= "http://localhost:3008/students-data/";

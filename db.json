@@ -1,0 +1,494 @@
+{
+  "students-data": [
+    {
+      "id": "1",
+      "first_name": "Marion le tachuko le loch",
+      "last_name": "Baynham",
+      "contact_no": "344-99-3983",
+      "email": "mbaynham0@virginia.edu",
+      "gender": "Male",
+      "address": "012 Bunker Hill Circle",
+      "dob": "4/27/2016"
+    },
+    {
+      "id": "2",
+      "first_name": "Hunt",
+      "last_name": "Obee",
+      "email": "hobee1@sfgate.com",
+      "gender": "Male",
+      "address": "957 Arkansas Alley",
+      "contact_no": "395-52-7798",
+      "dob": "7/31/2018"
+    },
+    {
+      "id": "3",
+      "first_name": "Cathie",
+      "last_name": "Attac",
+      "email": "cattac2@sitemeter.com",
+      "gender": "Agender",
+      "address": "0 Center Road",
+      "contact_no": "443-75-6644",
+      "dob": "1/1/2015"
+    },
+    {
+      "id": "4",
+      "first_name": "Dario",
+      "last_name": "Seeney",
+      "email": "dseeney3@canalblog.com",
+      "gender": "Male",
+      "address": "0 Acker Parkway",
+      "contact_no": "667-34-4489",
+      "dob": "2/14/2019"
+    },
+    {
+      "id": "5",
+      "first_name": "Maryanne",
+      "last_name": "Bolus",
+      "email": "mbolus4@ibm.com",
+      "gender": "Female",
+      "address": "1 Quincy Trail",
+      "contact_no": "623-71-0691",
+      "dob": "1/25/2016"
+    },
+    {
+      "id": "6",
+      "first_name": "Lilllie",
+      "last_name": "Di Frisco",
+      "email": "ldifrisco5@chron.com",
+      "gender": "Female",
+      "address": "9633 Dayton Lane",
+      "contact_no": "556-93-0277",
+      "dob": "4/25/2013"
+    },
+    {
+      "id": "7",
+      "first_name": "Felic",
+      "last_name": "Worden",
+      "email": "fworden6@yolasite.com",
+      "gender": "Male",
+      "address": "8 Nancy Circle",
+      "contact_no": "646-88-1480",
+      "dob": "9/27/2012"
+    },
+    {
+      "id": "8",
+      "first_name": "Leta",
+      "last_name": "Coop",
+      "email": "lcoop7@furl.net",
+      "gender": "Female",
+      "address": "876 Farwell Pass",
+      "contact_no": "544-41-7870",
+      "dob": "7/15/2016"
+    },
+    {
+      "id": "9",
+      "first_name": "Kally",
+      "last_name": "McIlenna",
+      "email": "kmcilenna8@nih.gov",
+      "gender": "Female",
+      "address": "9 Elka Alley",
+      "contact_no": "841-47-1882",
+      "dob": "5/25/2012"
+    },
+    {
+      "id": "10",
+      "first_name": "Torrence",
+      "last_name": "Liepins",
+      "email": "tliepins9@weibo.com",
+      "gender": "Male",
+      "address": "1396 Oak Point",
+      "contact_no": "631-38-7126",
+      "dob": "8/16/2018"
+    },
+    {
+      "id": "11",
+      "first_name": "Jacinda",
+      "last_name": "Dineen",
+      "email": "jdineena@xrea.com",
+      "gender": "Female",
+      "address": "0 Straubel Avenue",
+      "contact_no": "174-05-8921",
+      "dob": "6/27/2012"
+    },
+    {
+      "id": "12",
+      "first_name": "Gwenni",
+      "last_name": "Cuningham",
+      "email": "gcuninghamb@youtube.com",
+      "gender": "Female",
+      "address": "4633 Nelson Place",
+      "contact_no": "146-15-0031",
+      "dob": "4/27/2014"
+    },
+    {
+      "id": "13",
+      "first_name": "Kerwin",
+      "last_name": "Clench",
+      "email": "kclenchc@tinyurl.com",
+      "gender": "Male",
+      "address": "777 Vermont Terrace",
+      "contact_no": "811-82-3339",
+      "dob": "1/2/2016"
+    },
+    {
+      "id": "14",
+      "first_name": "Cad",
+      "last_name": "Giottoi",
+      "email": "cgiottoid@nhs.uk",
+      "gender": "Male",
+      "address": "9266 Pleasure Street",
+      "contact_no": "539-16-4974",
+      "dob": "4/10/2017"
+    },
+    {
+      "id": "15",
+      "first_name": "Lindon",
+      "last_name": "O'Shea",
+      "email": "losheae@oracle.com",
+      "gender": "Male",
+      "address": "998 Vera Point",
+      "contact_no": "323-36-1577",
+      "dob": "5/18/2014"
+    },
+    {
+      "id": "16",
+      "first_name": "Wallache",
+      "last_name": "Frontczak",
+      "email": "wfrontczakf@yahoo.co.jp",
+      "gender": "Male",
+      "address": "56 Elmside Junction",
+      "contact_no": "210-72-9786",
+      "dob": "3/3/2018"
+    },
+    {
+      "id": "17",
+      "first_name": "Ursuline",
+      "last_name": "Filippone",
+      "email": "ufilipponeg@deviantart.com",
+      "gender": "Female",
+      "address": "50 Union Pass",
+      "contact_no": "576-80-4741",
+      "dob": "5/4/2014"
+    },
+    {
+      "id": "18",
+      "first_name": "Iain",
+      "last_name": "Lindenman",
+      "email": "ilindenmanh@amazon.co.uk",
+      "gender": "Male",
+      "address": "2 Messerschmidt Center",
+      "contact_no": "787-30-8322",
+      "dob": "8/26/2016"
+    },
+    {
+      "id": "19",
+      "first_name": "Ambrosius",
+      "last_name": "Collete",
+      "email": "acolletei@blogs.com",
+      "gender": "Male",
+      "address": "49 Talisman Pass",
+      "contact_no": "496-13-1958",
+      "dob": "10/22/2014"
+    },
+    {
+      "id": "20",
+      "first_name": "Gabriele",
+      "last_name": "Stubbington",
+      "email": "gstubbingtonj@diigo.com",
+      "gender": "Male",
+      "address": "14 Havey Drive",
+      "contact_no": "193-10-1733",
+      "dob": "1/19/2014"
+    },
+    {
+      "id": "21",
+      "first_name": "Thea",
+      "last_name": "Mushart",
+      "email": "tmushartk@mlb.com",
+      "gender": "Female",
+      "address": "5149 Jenna Hill",
+      "contact_no": "329-46-9246",
+      "dob": "8/5/2014"
+    },
+    {
+      "id": "22",
+      "first_name": "Shandie",
+      "last_name": "Rieflin",
+      "email": "srieflinl@imdb.com",
+      "gender": "Female",
+      "address": "78 Morning Parkway",
+      "contact_no": "289-84-5056",
+      "dob": "12/18/2016"
+    },
+    {
+      "id": "23",
+      "first_name": "Sibelle",
+      "last_name": "Crebbin",
+      "email": "screbbinm@cocolog-nifty.com",
+      "gender": "Non-binary",
+      "address": "80668 Graceland Trail",
+      "contact_no": "748-95-3483",
+      "dob": "4/29/2013"
+    },
+    {
+      "id": "24",
+      "first_name": "Ellswerth",
+      "last_name": "Wilcher",
+      "email": "ewilchern@1und1.de",
+      "gender": "Male",
+      "address": "431 Sullivan Avenue",
+      "contact_no": "177-37-4358",
+      "dob": "11/3/2016"
+    },
+    {
+      "id": "25",
+      "first_name": "Ashby",
+      "last_name": "Collumbine",
+      "email": "acollumbineo@cafepress.com",
+      "gender": "Male",
+      "address": "49 Namekagon Alley",
+      "contact_no": "808-96-2424",
+      "dob": "6/30/2015"
+    },
+    {
+      "id": "26",
+      "first_name": "Abbye",
+      "last_name": "Coppen",
+      "email": "acoppenp@dagondesign.com",
+      "gender": "Female",
+      "address": "4 Atwood Way",
+      "contact_no": "525-28-8231",
+      "dob": "2/11/2019"
+    },
+    {
+      "id": "27",
+      "first_name": "Ameline",
+      "last_name": "Orbon",
+      "email": "aorbonq@sohu.com",
+      "gender": "Female",
+      "address": "32561 Evergreen Center",
+      "contact_no": "258-02-5997",
+      "dob": "3/4/2014"
+    },
+    {
+      "id": "28",
+      "first_name": "Sondra",
+      "last_name": "Edgell",
+      "email": "sedgellr@vkontakte.ru",
+      "gender": "Female",
+      "address": "88 Tomscot Crossing",
+      "contact_no": "257-52-0751",
+      "dob": "10/27/2015"
+    },
+    {
+      "id": "29",
+      "first_name": "Brena",
+      "last_name": "Firebrace",
+      "email": "bfirebraces@opensource.org",
+      "gender": "Female",
+      "address": "3089 Lakewood Gardens Road",
+      "contact_no": "796-02-5357",
+      "dob": "6/9/2013"
+    },
+    {
+      "id": "30",
+      "first_name": "Tamra",
+      "last_name": "Smallsman",
+      "email": "tsmallsmant@netscape.com",
+      "gender": "Female",
+      "address": "461 Macpherson Place",
+      "contact_no": "498-03-6592",
+      "dob": "4/10/2018"
+    },
+    {
+      "id": "31",
+      "first_name": "Fin",
+      "last_name": "Bruckshaw",
+      "email": "fbruckshawu@flavors.me",
+      "gender": "Male",
+      "address": "22939 Schlimgen Terrace",
+      "contact_no": "743-68-4714",
+      "dob": "6/29/2014"
+    },
+    {
+      "id": "32",
+      "first_name": "Milty",
+      "last_name": "Beastall",
+      "email": "mbeastallv@oracle.com",
+      "gender": "Male",
+      "address": "1590 Macpherson Plaza",
+      "contact_no": "645-04-6231",
+      "dob": "10/16/2013"
+    },
+    {
+      "id": "33",
+      "first_name": "Felipe",
+      "last_name": "Gostling",
+      "email": "fgostlingw@ning.com",
+      "gender": "Male",
+      "address": "7 Sheridan Center",
+      "contact_no": "244-53-5576",
+      "dob": "7/28/2013"
+    },
+    {
+      "id": "34",
+      "first_name": "Ariana",
+      "last_name": "Deschelle",
+      "email": "adeschellex@sitemeter.com",
+      "gender": "Female",
+      "address": "0352 Jana Alley",
+      "contact_no": "664-86-0773",
+      "dob": "11/7/2016"
+    },
+    {
+      "id": "35",
+      "first_name": "Patrick",
+      "last_name": "Hebburn",
+      "email": "phebburny@de.vu",
+      "gender": "Male",
+      "address": "2397 Troy Street",
+      "contact_no": "269-96-1434",
+      "dob": "9/11/2014"
+    },
+    {
+      "id": "36",
+      "first_name": "Bryce",
+      "last_name": "Brailey",
+      "email": "bbraileyz@flickr.com",
+      "gender": "Male",
+      "address": "807 Riverside Circle",
+      "contact_no": "854-72-8538",
+      "dob": "6/26/2017"
+    },
+    {
+      "id": "37",
+      "first_name": "Jordon",
+      "last_name": "Sedgwick",
+      "email": "jsedgwick10@wikia.com",
+      "gender": "Male",
+      "address": "29909 Utah Junction",
+      "contact_no": "797-08-3634",
+      "dob": "10/13/2018"
+    },
+    {
+      "id": "38",
+      "first_name": "Burch",
+      "last_name": "Eakeley",
+      "email": "beakeley11@bbb.org",
+      "gender": "Male",
+      "address": "0 Milwaukee Terrace",
+      "contact_no": "184-20-3338",
+      "dob": "8/13/2018"
+    },
+    {
+      "id": "39",
+      "first_name": "Trish",
+      "last_name": "Lush",
+      "email": "tlush12@latimes.com",
+      "gender": "Female",
+      "address": "95011 Glacier Hill Park",
+      "contact_no": "535-46-3921",
+      "dob": "6/7/2014"
+    },
+    {
+      "id": "40",
+      "first_name": "Jolynn",
+      "last_name": "Enbury",
+      "email": "jenbury13@fotki.com",
+      "gender": "Female",
+      "address": "21555 Fremont Way",
+      "contact_no": "674-80-4620",
+      "dob": "12/22/2015"
+    },
+    {
+      "id": "41",
+      "first_name": "Welby",
+      "last_name": "Pletts",
+      "email": "wpletts14@wikipedia.org",
+      "gender": "Male",
+      "address": "0 Eagan Place",
+      "contact_no": "277-27-8636",
+      "dob": "9/12/2018"
+    },
+    {
+      "id": "42",
+      "first_name": "Ralph",
+      "last_name": "Ferry",
+      "email": "rferry15@prlog.org",
+      "gender": "Male",
+      "address": "2912 Homewood Point",
+      "contact_no": "123-35-5910",
+      "dob": "4/30/2017"
+    },
+    {
+      "id": "43",
+      "first_name": "Bernardo",
+      "last_name": "Latan",
+      "email": "blatan16@xing.com",
+      "gender": "Male",
+      "address": "09 Judy Point",
+      "contact_no": "764-40-3919",
+      "dob": "5/30/2013"
+    },
+    {
+      "id": "44",
+      "first_name": "Judd",
+      "last_name": "Vickerman",
+      "email": "jvickerman17@craigslist.org",
+      "gender": "Male",
+      "address": "706 Moose Street",
+      "contact_no": "890-84-8508",
+      "dob": "2/2/2018"
+    },
+    {
+      "id": "45",
+      "first_name": "Teodor",
+      "last_name": "Rankling",
+      "email": "trankling18@indiegogo.com",
+      "gender": "Male",
+      "address": "18214 Clemons Lane",
+      "contact_no": "885-84-6428",
+      "dob": "9/9/2014"
+    },
+    {
+      "id": "46",
+      "first_name": "Beret",
+      "last_name": "Weson",
+      "email": "bweson19@ftc.gov",
+      "gender": "Female",
+      "address": "9046 Anthes Terrace",
+      "contact_no": "732-06-2238",
+      "dob": "9/1/2012"
+    },
+    {
+      "id": "47",
+      "first_name": "Charleen",
+      "last_name": "Berrill",
+      "email": "cberrill1a@washingtonpost.com",
+      "gender": "Female",
+      "address": "7610 Bayside Parkway",
+      "contact_no": "399-92-5906",
+      "dob": "11/1/2017"
+    },
+    {
+      "id": "48",
+      "first_name": "Giselle",
+      "last_name": "Woolacott",
+      "email": "gwoolacott1b@nyu.edu",
+      "gender": "Female",
+      "address": "19 Anzinger Pass",
+      "contact_no": "363-90-9204",
+      "dob": "11/26/2014"
+    },
+    {
+      "id": "49",
+      "first_name": "Collin",
+      "last_name": "Douche",
+      "email": "cdouche1c@redcross.org",
+      "gender": "Male",
+      "address": "75 Golf Course Street",
+      "contact_no": "433-06-3745",
+      "dob": "8/12/2013"
+    }
+  ]
+}
